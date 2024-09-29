@@ -1,5 +1,5 @@
 # hello-everyone
-https://frlegendsapk.org/
+for more projects visit: https://frlegendsapk.org/
 # Simple tool to greet users with their name and father's name
 
 def greet_user():
